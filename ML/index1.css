@@ -1,0 +1,13 @@
+body{
+    width: 100%;
+    background-color: lightblue;
+}
+
+header{
+    display: flex;
+    flex-direction: column;
+    margin-left: 40%;
+}
+img{
+    display: flex;
+}
