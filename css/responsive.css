@@ -1,0 +1,128 @@
+@media screen and (max-width: 425px) {
+
+
+
+
+*{
+    padding: 0;
+    margin: 0;
+ }
+
+header  {
+    display: block;
+    position: static;
+}
+
+header ul a:hover {
+    color: black;
+    border-top: 3px solid #5cadd3;
+    padding-top: 10%;
+}
+
+.img1  {
+    width: 100%;
+}
+
+.Slogan h1  {
+    font-size: 22;
+    margin-left: 0%;
+    margin-top: -21%;
+}
+
+.chevronGauche {
+    top: -88px;
+    left:0%;
+}
+
+.chevronDroite {
+    top: -130px;
+    left: 87%;
+
+}
+
+.Slogan button ,.un {
+    margin-top: -4%;
+    margin-left: 0%;
+}
+
+#service {
+    margin-top: 8%;
+    width: 100%;
+    }
+
+.serviceText {
+    display: flex;
+    flex-direction: column;
+}
+
+.circle {
+    margin: -3%;
+}
+
+.container  {
+    display: flex;
+    flex-direction: column;
+}
+
+.serviceImage {
+    width: 3%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.design {
+    margin-top: 5px;
+    flex-direction: column;
+    align-items: center;
+}
+
+.animation {
+    margin-top: 18px;
+    margin-right: -98%;
+    margin-left: -212%;
+
+}
+
+#Portfolio  {
+    width: 100%;
+}
+
+.projet {
+    width: 100%;
+}
+
+#contact{
+    width:  100%;
+}
+
+.contactInfo {
+    margin-left: 10%;
+    width: 63%;
+    height: 76%;
+    }
+
+iframe{
+    width: 100%;
+}
+
+.logo1 {
+    margin-top: 4%;
+    margin-left: 27%;
+}
+
+.MentionLegale a{
+    margin-top: 0%;
+    margin-left: 27%;
+}
+
+.horaires{
+  margin-left: 25%;
+}
+
+.réseauxSociaux{
+    margin-left: 50%;
+    margin-top: 1%;
+    font-size: 0px;
+}
+}
